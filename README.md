@@ -48,9 +48,3 @@ Through this project, I gained hands-on experience with:
 - Feature engineering  
 - Model building and evaluation  
 - Understanding classification problems in real-world finance scenarios  
-
----
-
-## About  
-Machine Learning classification project to predict loan approval using Logistic Regression.
-
